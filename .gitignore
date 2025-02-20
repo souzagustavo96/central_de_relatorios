@@ -1,0 +1,27 @@
+# Node.js e React
+node_modules/
+dist/
+build/
+*.log
+
+# Arquivos de configuração local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swo
+*.swp
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
